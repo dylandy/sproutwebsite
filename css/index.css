@@ -1,0 +1,15 @@
+html{
+  background:#89C355;
+  font-family:微軟雅黑體;
+}
+#big_logo{
+  text-align:center;
+  font-size:200px;
+  color:white;
+  text-shadow:5px 5px #99EB51;
+}
+#doing{
+  text-align:center;
+  font-size:30px;
+  color:white;
+}
