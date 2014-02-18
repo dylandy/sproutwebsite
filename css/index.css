@@ -1,6 +1,17 @@
 html{
+  font-family:"微軟雅黑體",'Ubuntu','文泉驛微米黑',"ヒラギノ角ゴ Pro",sans-serif;
+}
+*, *:before, *:after {
+ -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ box-sizing: border-box;
+}
+section{
+  display:block;
+  width:100%;
+}
+#intro{
   background:#89C355;
-  font-family:"微軟雅黑體",'Ubuntu',sans-serif;
 }
 #big_logo{
   text-align:center;
