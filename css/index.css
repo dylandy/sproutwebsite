@@ -13,14 +13,44 @@ section{
 #intro{
   background:#89C355;
 }
+#team{
+  background:rgb(206, 236, 142);
+}
 #big_logo{
   text-align:center;
   font-size:200px;
   color:white;
-  text-shadow:5px 5px #99EB51;
+  padding-top:100px;
 }
 #doing{
   text-align:center;
   font-size:30px;
   color:white;
+  padding-top:50px;
+}
+.team_font{
+  color:rgb(134, 151, 64);
+  text-align:center
+}
+#team_title{
+  font-size:150px;
+  padding-top:50px;
+}
+.circular_img{
+  width:250px;
+  height:250px;
+  border-radius:50%;
+}
+.image{
+  width:250px;
+}
+#sprout{
+  margin: 0 auto;
+  padding-top:15px;
+}
+#team_slogan{
+  text-align:center;
+  font-size:50px;
+  padding-top:25px;
+  color:rgb(24, 112, 24);
 }
