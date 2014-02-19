@@ -13,6 +13,9 @@ section{
 #intro{
   background:#89C355;
 }
+#thought{
+  background:#4c93eb;
+}
 #team{
   background:rgb(206, 236, 142);
 }
@@ -28,12 +31,20 @@ section{
   color:white;
   padding-top:50px;
 }
+.thought_font{
+  color:#fff;
+  text-align:center;
+}
+#thought_slogan{
+  font-size:100px;
+  padding-top:50px;
+}
 .team_font{
   color:rgb(134, 151, 64);
   text-align:center
 }
 #team_title{
-  font-size:150px;
+  font-size:100px;
   padding-top:50px;
 }
 .circular_img{
