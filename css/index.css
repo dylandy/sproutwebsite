@@ -8,10 +8,14 @@ html{
 }
 section{
   display:block;
+  box-shadow: 0 8px 6px -6px #669FEC ;
   width:100%;
 }
 #intro{
   background:#89C355;
+}
+#latest{
+  background:rgb(152, 216, 83);
 }
 #thought{
   background:#769C60;
@@ -30,6 +34,10 @@ section{
   font-size:30px;
   color:white;
   padding-top:50px;
+}
+#latest_slogan{
+  font-size:70px;
+  padding-top:30px;
 }
 .thought_font{
   color:#fff;
