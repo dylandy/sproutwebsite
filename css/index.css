@@ -23,6 +23,17 @@ section{
 #team{
   background:rgb(206, 236, 142);
 }
+#to_latest{
+  display:block;
+  background:rgba(25, 160, 25, 0.88);
+  width:400px;
+  margin:30px auto;
+  padding:50px 50px;
+  color:yellow;
+  font-size:30px;
+  border-radius:10px;
+  text-align:center;
+}
 #big_logo{
   text-align:center;
   font-size:200px;
@@ -36,8 +47,8 @@ section{
   padding-top:50px;
 }
 #latest_slogan{
-  font-size:70px;
-  padding-top:30px;
+  font-size:100px;
+  padding-top:50px;
 }
 .thought_font{
   color:#fff;
