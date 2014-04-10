@@ -1,5 +1,7 @@
 var resize_section = function(){
-  $('section').css('height',$(window).height() + 'px');
+  $('#intro').css('height',$(window).height() + 'px');
+  $('#latest').css('height',$(window).height() + 'px');
+  $('#team').css('height',$(window).height() + 'px');
 }
 
 jQuery(function($){

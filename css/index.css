@@ -32,7 +32,7 @@ section{
   background:rgb(152, 216, 83);
 }
 #para_intro{
-  color:white;
+  color:rgb(54, 56, 3);
   font-size:30px;
   padding-top:100px;
   text-align:center;
@@ -41,12 +41,23 @@ section{
 #thought{
   background:#769C60;
 }
-.centered > h2{
+.centered h2{
   color:white;
-  font-size:50px;
-  padding-top:50px;
+  font-size:80px;
+  padding-top:60px;
   text-align:center;
+  letter-spacing:5px;
 }
+.centered > div{
+  color:white;
+  font-size:30px;
+  padding-top:40px;
+  text-align:left;
+  margin:10px auto;
+  line-height:1.5;
+  width:80%;
+}
+
 .half{
   float:left;
   width:45%;
