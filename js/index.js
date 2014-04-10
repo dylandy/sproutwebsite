@@ -4,7 +4,7 @@ var resize_section = function(){
 
 jQuery(function($){
   resize_section();
-  $('#to_latest').click(function(){
+  $('#to_page2').click(function(){
     $('html, body').animate({scrollTop: $('#latest').offset().top},800);
   });
 });

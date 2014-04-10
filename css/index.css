@@ -14,6 +14,18 @@ section{
 #intro{
   background:#89C355;
 }
+#to_page2{
+  border-radius:30px;
+  font-size:40px;
+  text-align:center;
+  color:white;
+  padding:3px;
+  border:solid 3px white;
+  display:block;
+  margin:150px auto;
+  width:60px;
+  height:60px;
+}
 #latest{
   background:rgb(152, 216, 83);
 }
