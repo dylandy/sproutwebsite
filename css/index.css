@@ -12,25 +12,48 @@ section{
   width:100%;
 }
 #intro{
-  background:#89C355;
+  /*background:#89C355;*/
+  background:#4E6F30;
 }
 #to_page2{
-  border-radius:30px;
+  border-radius:50%;
   font-size:40px;
   text-align:center;
   color:white;
   padding:3px;
   border:solid 3px white;
   display:block;
-  margin:150px auto;
+  margin:170px auto 20px auto;
   width:60px;
   height:60px;
+  letter-spacing:1px;
 }
 #latest{
   background:rgb(152, 216, 83);
 }
+#para_intro{
+  color:white;
+  font-size:30px;
+  padding-top:100px;
+  text-align:center;
+  line-height:200%;
+}
 #thought{
   background:#769C60;
+}
+.centered > h2{
+  color:white;
+  font-size:50px;
+  padding-top:50px;
+  text-align:center;
+}
+.half{
+  float:left;
+  width:45%;
+  color:white;
+  font-size:25px;
+  padding:80px 50px;
+  line-height:150%;
 }
 #team{
   background:rgb(206, 236, 142);
@@ -45,10 +68,6 @@ section{
   text-align:center;
   font-size:30px;
   color:white;
-  padding-top:50px;
-}
-#latest_slogan{
-  font-size:100px;
   padding-top:50px;
 }
 .thought_font{
@@ -95,7 +114,7 @@ footer p{
   text-indent:4em;
   padding-top:10px;
 }
-#centered{
+.centered{
   width:90%;
   margin:0 auto;
 }
