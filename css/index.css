@@ -28,8 +28,30 @@ section{
   height:60px;
   letter-spacing:1px;
 }
+#setsumei{
+  width:50%;
+  float:left;
+  border-radius:10px;
+  background:rgb(183, 212, 156);
+  padding-top:0px;
+  margin-left:100px;
+  margin-top:10px;
+}
+#setsumei p{
+  width:80%;
+  line-height:1.5;
+  font-size:20px;
+  color:white;
+  padding:10px;
+  display:block;
+  margin:0 auto;
+}
 #latest{
   background:rgb(173, 216, 127);
+}
+#second-intro{
+  width:80%;
+  margin:0 auto;
 }
 #para_intro{
   color:rgb(54, 56, 3);
