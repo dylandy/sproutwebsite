@@ -188,7 +188,7 @@ footer span{
   color:grey;
   padding:0 0 30px 10px;
 }
-@media screen and (min-width:960px){
+@media screen and (min-width:1800px){
   #setsumei{
     margin-left:150px;
   }
