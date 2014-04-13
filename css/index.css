@@ -188,3 +188,11 @@ footer span{
   color:grey;
   padding:0 0 30px 10px;
 }
+@media screen and (min-width:960px){
+  .button{
+    margin-left:190px;
+  }
+  #second-intro + img{
+    margin-right:150px;
+  }
+}
