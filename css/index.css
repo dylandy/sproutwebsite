@@ -189,8 +189,11 @@ footer span{
   padding:0 0 30px 10px;
 }
 @media screen and (min-width:960px){
+  #setsumei{
+    margin-left:150px;
+  }
   .button{
-    margin-left:190px;
+    margin-left:240px;
   }
   #second-intro + img{
     margin-right:150px;
